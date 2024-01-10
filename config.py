@@ -87,18 +87,18 @@ clean = {}
 autoclean = []
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://graph.org/file/2a419f8eadaefa1698e55.jpg"
+    "START_IMG_URL", "https://graph.org/file/3a6cbbe48ef24628be90e.jpg"
 )
 PING_IMG_URL = getenv(
     "PING_IMG_URL", "https://te.legra.ph/file/31660093269b2be99ae89.jpg"
 )
 PLAYLIST_IMG_URL = "https://te.legra.ph/file/31660093269b2be99ae89.jpg"
-STATS_IMG_URL = "https://graph.org/file/2a419f8eadaefa1698e55.jpg"
+STATS_IMG_URL = "https://graph.org/file/3a6cbbe48ef24628be90e.jpg"
 TELEGRAM_AUDIO_URL = "https://te.legra.ph/file/31660093269b2be99ae89.jpg"
 TELEGRAM_VIDEO_URL = "https://te.legra.ph/file/31660093269b2be99ae89.jpg"
-STREAM_IMG_URL = "https://graph.org/file/2a419f8eadaefa1698e55.jpg"
+STREAM_IMG_URL = "https://graph.org/file/3a6cbbe48ef24628be90e.jpg"
 SOUNCLOUD_IMG_URL = "https://te.legra.ph/file/31660093269b2be99ae89.jpg"
-YOUTUBE_IMG_URL = "https://graph.org/file/2a419f8eadaefa1698e55.jpg"
+YOUTUBE_IMG_URL = "https://graph.org/file/3a6cbbe48ef24628be90e.jpg"
 SPOTIFY_ARTIST_IMG_URL = "https://te.legra.ph/file/31660093269b2be99ae89.jpg"
 SPOTIFY_ALBUM_IMG_URL = "https://te.legra.ph/file/31660093269b2be99ae89.jpg"
 SPOTIFY_PLAYLIST_IMG_URL = "https://te.legra.ph/file/31660093269b2be99ae89.jpg"
